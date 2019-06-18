@@ -9,6 +9,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>api</module>
+        <module>provider-dept-8001</module>
     </modules>
     <packaging>pom</packaging>
     <properties>
